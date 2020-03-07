@@ -1,4 +1,4 @@
-# Astart
+# Astar
 game A star
 ## version 1
 
