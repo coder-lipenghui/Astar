@@ -1,0 +1,2 @@
+# Astart
+game A star
